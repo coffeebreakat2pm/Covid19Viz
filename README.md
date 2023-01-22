@@ -28,7 +28,7 @@ exponential growth of cumulatitive cases.
 Lets annotate and add WHO-events to get a more clear view of the there
 was a change as well why Chinas line began to flatten out.
 
-![](Visualizing-early-covid-19-pandemic_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](unnamed-chunk-4-1.png)
 
 It looks like that the WHO declared a global health emergency as cases
 started increase heavily in early 2020 in China. We also see that Chinas
