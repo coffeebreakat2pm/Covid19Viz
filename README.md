@@ -6,8 +6,6 @@ The data is collected from a Open repository(https://github.com/RamiKrispin/coro
 
 This project is based and inspired by the "Visualizing COVID-19" project on DataCamp.
 
-# From epidemic to pandemic, visualizing the Covid-19 pandemic. Based and inspired by DataCamp projects.
-
 ## We will try to visualize the covid-19 pandemic during the beginning of the outbreak in 2020
 
 ### How did the confirmed cases look around the world?
@@ -59,9 +57,9 @@ started to grow exponentially and outgrew the linear trendline.
 
 Lets investigate which countries got hit the hardest outside of China
 
-    ## # A tibble: 7 × 2
+  
     ##   country      total_cases
-    ##   <chr>              <dbl>
+                 
     ## 1 France              7699
     ## 2 Germany             9257
     ## 3 Iran               16169
