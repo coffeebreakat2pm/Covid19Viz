@@ -1,4 +1,4 @@
-# Visualizing early Covid-19 Pandemic
+# From epidemic to pandemic, visualizing the Covid-19 pandemic. Based and inspired by DataCamp projects.
 
 This project is an attempt (a very amateur-ish one) to try visualize the cases using R.
 
